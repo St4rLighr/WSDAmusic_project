@@ -6,15 +6,6 @@ Create Date: 05/05/2024
 Description: This query displays all customers first, last names and email addresses
 */
 
--- used to write comments 
-
-OR
-
-/*
-For longer comments
-
-*/
-
 SELECT 
 	FirstName  AS [Customer First Name], 
 	LastName AS 'Customer Last Name', 
